@@ -1,3 +1,5 @@
+https://leetcode.com/problems/build-an-array-with-stack-operations/submissions/
+
 class Solution {
 public:
     vector<string> buildArray(vector<int>& target, int n) {
